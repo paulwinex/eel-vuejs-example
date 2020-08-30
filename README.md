@@ -1,6 +1,6 @@
 ### Simple example of using Vue.js with Eel library
 
-Install Eel
+Install Eel (https://github.com/samuelhwilliams/Eel)
 
 ```bash
 pip3 install Eel
